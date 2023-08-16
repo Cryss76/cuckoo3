@@ -43,4 +43,6 @@ nav:
   - Commands: usage/commands.md
 
 - Development:
+  - Overview: development/overview.md
   - Creating new machinery modules: development/creating_machinery.md
+
